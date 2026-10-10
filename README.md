@@ -47,6 +47,18 @@ I build web experiences with **Next.js and TypeScript**, explore Android with **
 <p><img src="https://img.shields.io/badge/Kotlin-0d1519?style=flat-square&logo=kotlin&logoColor=a7f3d0" alt="Kotlin" /> <img src="https://img.shields.io/badge/ANDROID-164e3a?style=flat-square&logo=android&logoColor=a7f3d0" alt="Android" /></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/yessensiv/dentalux">Dentalux ↗</a></h3>
+<p>A dental clinic website demo built with Next.js.</p>
+<p><img src="https://img.shields.io/badge/Next.js-0d1519?style=flat-square&logo=nextdotjs&logoColor=a7f3d0" alt="Next.js" /></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/yessensiv/zaga-zaga">Zaga Zaga ↗</a></h3>
+<p>An unofficial design concept exploring visual direction.</p>
+<p><img src="https://img.shields.io/badge/DESIGN_CONCEPT-164e3a?style=flat-square" alt="Design concept" /></p>
+</td>
+</tr>
 </table>
 <p align="right"><a href="https://github.com/yessensiv?tab=repositories">All projects ↗</a></p>
 
