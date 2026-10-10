@@ -1,22 +1,24 @@
-name: Metrics preview
+name: Profile metrics
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
   push:
     paths:
       - .github/workflows/metrics-preview.yml
 permissions:
-  contents: read
+  contents: write
 jobs:
   render:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: Render public profile
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: yessensiv
-          output_action: none
+          output_action: commit
           filename: metrics-profile.svg
           base: header, activity, community, repositories
           config_timezone: Asia/Qyzylorda
@@ -34,11 +36,3 @@ jobs:
           plugin_habits_charts: yes
           plugin_activity: yes
           plugin_activity_limit: 5
-          extras_css: |
-            svg { --color-text: #c9d1d9; --color-text-accent: #a7f3d0; --color-background: #0d1519; }
-      - name: Save rendered preview
-        uses: actions/upload-artifact@v4
-        with:
-          name: metrics-preview
-          path: /metrics_renders/*.svg
-          if-no-files-found: error
