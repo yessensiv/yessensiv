@@ -58,10 +58,15 @@ I build web experiences with **Next.js and TypeScript**, explore Android with **
 </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yessensiv&theme=github_dark&title_color=a7f3d0&bg_color=0d1519&chart_color=6ee7b7&animation=draw" alt="GitHub contribution history" width="100%" /></p>
 
-### 05 / Achievements & coding rhythm
+### 05 / Milestones
 
-<p align="center"><img src="metrics-profile.svg" alt="Public GitHub metrics, achievements, languages, contribution calendar and coding habits" width="75%" /></p>
-<p align="center"><sub>Public activity, languages and milestones · refreshed daily with GitHub Actions.</sub></p>
+<p align="center"><img src="https://trophy.ryglcloud.net/?username=yessensiv&theme=darkhub&column=5&margin-w=12&margin-h=12&no-bg=true&no-frame=true&rank=-%3F" alt="GitHub profile trophies based on public activity" width="100%" /></p>
+<p align="center"><sub>Commits · stars · followers · pull requests · repositories</sub></p>
+
+### 06 / Contribution landscape
+
+<p align="center"><img src="metrics-profile.svg" alt="Public GitHub activity and 3D contribution calendar" width="65%" /></p>
+<p align="center"><sub>Refreshed daily with GitHub Actions.</sub></p>
 
 <details>
 <summary>More language & activity insights</summary>
