@@ -58,16 +58,19 @@ I build web experiences with **Next.js and TypeScript**, explore Android with **
 </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yessensiv&theme=github_dark&title_color=a7f3d0&bg_color=0d1519&chart_color=6ee7b7&animation=draw" alt="GitHub contribution history" width="100%" /></p>
 
-### 05 / One commit at a time
+### 05 / Achievements & coding rhythm
 
+<p align="center"><img src="metrics-profile.svg" alt="Public GitHub metrics, achievements, languages, contribution calendar and coding habits" width="75%" /></p>
+<p align="center"><sub>Public activity, languages and milestones · refreshed daily with GitHub Actions.</sub></p>
+
+<details>
+<summary>More language & activity insights</summary>
+<br/>
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
-<img src="assets/snake.svg" alt="Animated snake following my GitHub contribution calendar" width="100%" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yessensiv&theme=github_dark" alt="Languages by commits" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yessensiv&theme=github_dark&utcOffset=5" alt="Commits by time of day UTC+5" width="48%" />
 </p>
-<p align="center"><sub>Generated daily from my GitHub contributions.</sub></p>
+</details>
 
 ---
 <p align="center"><sub>Code. Learn. Build. Repeat.</sub></p>
