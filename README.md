@@ -77,7 +77,7 @@ I build web experiences with **Next.js and TypeScript**, explore Android with **
 
 ### 06 / Contribution landscape
 
-<p align="center"><img src="metrics-profile.svg" alt="Public GitHub activity and 3D contribution calendar" width="65%" /></p>
+<p align="center"><img src="metrics-profile.svg?v=2" alt="Public GitHub activity and 3D contribution calendar" width="65%" /></p>
 <p align="center"><sub>Refreshed daily with GitHub Actions.</sub></p>
 
 <details>
