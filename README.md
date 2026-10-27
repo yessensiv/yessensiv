@@ -7,55 +7,11 @@
 Создаю веб-интерфейсы, изучаю Android и делаю инструменты с AI.<br>
 Мне интересны проекты, в которых **польза встречается с выразительным дизайном**.
 
-<a href="https://github.com/yessensiv?tab=repositories"><img src="https://img.shields.io/badge/ПРОЕКТЫ-D7FF3F?style=for-the-badge&logo=github&logoColor=141414" alt="Все проекты" /></a>
 <a href="https://www.instagram.com/timushiv"><img src="https://img.shields.io/badge/INSTAGRAM-1D1F24?style=for-the-badge&logo=instagram&logoColor=F2EFE8" alt="Instagram timushiv" /></a>
 
 </div>
 
 <br>
-
-## Проекты
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/yessensiv/ENT-MATH">ENT-MATH</a></h3>
-<p>Математика для 5–11 классов и подготовка к ЕНТ в Казахстане.</p>
-<sub>ОБРАЗОВАНИЕ · TYPESCRIPT</sub><br><br>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/yessensiv/san-portfolio">SAN Portfolio</a></h3>
-<p>Портфолио с анимацией, плавной прокруткой и вниманием к деталям.</p>
-<sub>NEXT.JS · GSAP · LENIS</sub><br><br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/yessensiv/docmind-telegram">DocMind</a></h3>
-<p>Telegram-ассистент для кратких пересказов документов и ответов на вопросы.</p>
-<sub>PYTHON · AI · TELEGRAM</sub><br><br>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/yessensiv/flow-downloader">Flow Downloader</a></h3>
-<p>Проект загрузчика, через который исследую Android-разработку.</p>
-<sub>KOTLIN · ANDROID</sub><br><br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/yessensiv/dentalux">Dentalux</a></h3>
-<p>Демо сайта стоматологической клиники с понятной подачей услуг.</p>
-<sub>NEXT.JS · WEB DESIGN</sub><br><br>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/yessensiv/zaga-zaga">Zaga Zaga</a></h3>
-<p>Неофициальный дизайн-концепт — эксперимент с визуальным направлением.</p>
-<sub>VISUAL DESIGN · CONCEPT</sub><br><br>
-</td>
-</tr>
-</table>
-
-<p align="right"><a href="https://github.com/yessensiv?tab=repositories">Вся коллекция проектов →</a></p>
 
 ## С чем работаю
 
