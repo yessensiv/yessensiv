@@ -14,23 +14,7 @@
 
 <br>
 
-## В центре внимания — FocusFlow
-
-**Лаборатория фокуса, в которой время принимает форму.**
-
-Задачи, привычки и Pomodoro в одном пространстве. Каждая сессия наполняет стеклянную колбу, а дни складываются в личную коллекцию внимания.
-
-<a href="https://github.com/yessensiv/focusflow"><img src="https://raw.githubusercontent.com/yessensiv/focusflow/main/docs/timer.png" width="100%" alt="FocusFlow: стеклянный таймер, живая жидкость и режим погружения" /></a>
-
-**Жидкий таймер · Привычки-капли · Полка дней · Тёмная и светлая темы**
-
-JavaScript, CSS и SVG. Работает прямо в браузере, без установки.
-
-[Посмотреть FocusFlow →](https://github.com/yessensiv/focusflow)
-
-<br>
-
-## Другие проекты
+## Проекты
 
 <table>
 <tr>
@@ -121,4 +105,3 @@ JavaScript, CSS и SVG. Работает прямо в браузере, без 
 ---
 
 <p align="center"><strong>Идея → эксперимент → работающий проект.</strong><br><sub>Спасибо, что заглянули.</sub></p>
-
